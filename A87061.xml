@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hampton-Court conspiracy, with the dovvnfall of the agitators and Levellers, who would admit no distinction of birth or tittle [sic], and out of the lands of the whole kingdome in generall would proportion an equal estate to every man in particular. Together vvith the horrid resolution of one George Greenland corporal, who in the space of three dayes did undertake to murder his Majesty at Hampton-Court.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87061</idno>
+            <idno type="STC">Wing H636</idno>
+            <idno type="STC">Thomason E416_15</idno>
+            <idno type="STC">ESTC R202532</idno>
+            <idno type="EEBO-CITATION">99862781</idno>
+            <idno type="PROQUEST">99862781</idno>
+            <idno type="VID">161294</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87061)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161294)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E416[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hampton-Court conspiracy, with the dovvnfall of the agitators and Levellers, who would admit no distinction of birth or tittle [sic], and out of the lands of the whole kingdome in generall would proportion an equal estate to every man in particular. Together vvith the horrid resolution of one George Greenland corporal, who in the space of three dayes did undertake to murder his Majesty at Hampton-Court.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Novemb 19".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Greenland, George.</term>
+               <term>Levellers --  Early works to 1800.</term>
+               <term>Conspiracies --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161294:1" rendition="simple:additions"/>
+            <p>
+               <hi>Hampton-Court</hi> CONSPIRACY, WITH The Dovvnfall of the A<g ref="char:EOLhyphen"/>gitators and Levellers, who would admit no diſtinction of Birth or Tittle, and out of the Lands of the whole Kingdome in Generall would proportion an equal Eſtate to every man in particular.</p>
+            <p>TOGETHER With the horrid reſolution of one <hi>George Greenland</hi> Corporal, who in the ſpace of three dayes did undertake to murder his Majeſty at <hi>Hampton-Court.</hi>
+            </p>
+            <q>
+               <l>More then King-catching herein you may ſpy,</l>
+               <l>King-killing <hi>Hampton-Courts</hi> Conſpiracy.</l>
+            </q>
+            <p>Printed in the Yeare 1647:</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:161294:2"/>
+            <pb n="1" facs="tcp:161294:2"/>
+            <head>Hampton-Court CONSPYRACY.</head>
+            <sp>
+               <speaker>A. B.</speaker>
+               <p>
+                  <seg rend="decorInit">W</seg>Hat are now become of our Mountebank Horſe-Doctors the Agitators, who have ſo long made both Houſes houſe of Of<g ref="char:EOLhyphen"/>fices for evacuations and purges; the on<g ref="char:EOLhyphen"/>ly Wiſe men to ſtate the caſe of the king<g ref="char:EOLhyphen"/>dome, or to uncaſe it into ſtates; Whoſe Dictates were more then Documents, and Propoſalls Im<g ref="char:EOLhyphen"/>poſals, beſpeaking both Speakers ſilent, making a younger brother of our Parliament, in bequeathing unto it one of their party-colour'd Coats, not ſo much for a badge of diviſion, as that each ſpot of knavery might have its ſplendor, and ſo become the leſſe blemiſh, but becauſe of its long dreaming have left in the pit of diſpaire?</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Sir theſe Agitating <hi>Anthonyes</hi> of our time I be<g ref="char:EOLhyphen"/>leeve have made ſo many interrogatives of the Preroga<g ref="char:EOLhyphen"/>tive, that it is a hard queſtion to reſolve whither the devill hath carryed them by the ſpirit of a Propoſall: Report beſpeakes them voted back to their ſeverall charges, that is devoted or conſecrated to the charge of the kingdome; perhaps the devill hath carryed them to the Spittle pinna<g ref="char:EOLhyphen"/>cle, for not long agoe ſome of them with their animall agents were ſeen there to over-looke the kingdomes of the world, and the glory of them, which appeared (for one inſtance) in a Comfit-maker (who ſtood upon a bench
+<pb n="2" facs="tcp:161294:3"/>dreſſing Sweet-meates for them like mad, and indeed the Siſters gapt upon him as if they wanted ſugar plumbs) but to the poynt, this fellow told them that it was revealed unto him out of the Revelations, that twenty years hence at fartheſt, the Saints ſhall begin their raigne of a thouſand years; and that text <hi>that the meeke ſhall inherit the earth;</hi> did wrap him up in ſuch a high ſphear of ſpirituall ſolace and jocanty, that he deſpiſe all worldly comfort making; but obſerve whether amongſt theſe Levellers, there was not the very forme and matter of a conventice Conſpiracy a<g ref="char:EOLhyphen"/>gainſt <hi>Hampton Court,</hi> or the King of it; for they gathered hands to begin to make plaine the high-way of our Lord King <hi>Charles;</hi> their argument was, that the Creator is no reſpecter of perſons; <hi>Ergo,</hi> why ſhould the creature, wherefore wee will leave <hi>Hampton-Court</hi> with my Siſter <hi>Hannas</hi> Kitchin, the people choſe the King, <hi>Ergo,</hi> why ſhould we not chuſe whether we will have a King or noe. Theſe plots of high concernment were agitated belowe ſtaires, in alluſion to the powder plot, above ſtaires they whimperd out freewill, which intimated their inherent ability to act theſe good works, and ſweet roguries. From all which I infer that the Scribes, Phariſes, Hypo<g ref="char:EOLhyphen"/>crites, inſtead of paying Tribute to <hi>Caeſar,</hi> would have him pay Tribute to their Tub tribunals, to bequeath his head to the wiſe Agitators, his body to the liberty of the ſubject, and ſo he may become, if not a Saint a Separatiſt; which if they can accompliſh it will probably prognoſtick that theſe Saints ſhall be ſoveraignes.</p>
+            </sp>
+            <sp>
+               <speaker>A. B.</speaker>
+               <p>But what is it that terminates their deſigne?</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Firſt a confuſion of King and Court. Secondly a concuſſion or knocking together the ſimple noddels of the vulgar into a community untill they run all horne mad. For the firſt they have the Popes Bull, to wit Mr. <hi>Peters,</hi> who muſt roare the Catholick Commonality out of Al<g ref="char:EOLhyphen"/>legiance, into the coxcomb community of ſublunary crea<g ref="char:EOLhyphen"/>tures; who of late hath converted his Apoſtolicall keyes into
+<pb n="3" facs="tcp:161294:3"/>putry padlocks, perſwading his Majeſty it is the narrow way to heaven to be ſhut up cloſe, whiles himſelfe holds riding about like an Itinerary Miniſter, as the juſt right of liberty of Conſcience, prohibiting ſome purblind Presbi<g ref="char:EOLhyphen"/>ters into divine Poſt boyes. The divine <hi>Dell,</hi> and <hi>Peters</hi> the other day opened their mouth, and the devill ſpit in them, and they ſpake ſaying, the King was but as a dead dog; which interpreted, is he ſhal live no longer as a man; <hi>Rabſhekah</hi> was a royaliſt to theſe rogues, was ever ſuch pulpit puppies ſeen or heard of in this univerſe, that ſnar<g ref="char:EOLhyphen"/>led at his ſoveraigne as a Dog. I know not whether it bee the common prayers to puniſh ſuch prodigious Prophets, but I am ſure it is divine ſervice to hang them.</p>
+               <p n="2">2. For the ſecond they plead the old cuſtome in the nonage of times, and as King <hi>Pinus</hi> was ſaid when the firſt that conſtituted confines and ordained bounds, ſo theſe Pinnies wil begin anew (becauſe al things but of that are become new) to be boundleſſe all things are to be com<g ref="char:EOLhyphen"/>mon to the outward and inward man, and nothing proper unleſſe it be to propagate a poſterity out of their neigh<g ref="char:EOLhyphen"/>bours wifes propriſty; now I muſt want a ſhare in a ſiſters dowry, whether it be copy hold Land, or to be tenant in<g ref="char:EOLhyphen"/>tale, each Citizen muſt proclaime himſelfe a Coukcold and his wife a Concubine, and farewell all private devotin in mine Vncles counting-houſe thirty pounds a yeare ſhal he diſtributive juſtice to thoſe that had juſt nothing afore, towards the execution of which at large, they ſhut up my Lord Mayor and his brethren, converting their gold chains into ſilver mint.</p>
+               <p>And theſe Agitators the no more ring leaders to this Conſpiracy?</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>For ſome of <hi>Putney</hi> prerogative would willingly change the yeare of King <hi>Charles</hi> his raigne into the yeare of his ruine.</p>
+               <q>
+                  <l>Making head quarters for to bee more high</l>
+                  <l>Then the crown of it regall Monarchy.</l>
+               </q>
+               <pb n="4" facs="tcp:161294:4"/>
+               <p>Amongſt whom, if he be not converted, I may reckon one almoſt omnipotent, a <hi>Oliver</hi> who hath cut more croſs capers then them all, whoſe private ſpirit breaths negatives and affirmatives <hi>instanti,</hi> in an inſtant. Firſt he affirme that the religious Army will proſtrate their Armes at the Par<g ref="char:EOLhyphen"/>liaments feet, at the leaſt beck of intimation; then ſpurre<g ref="char:EOLhyphen"/>cuts to the Army, and gives them a negative Nod to for<g ref="char:EOLhyphen"/>beare disbanding on pain of perſecution. Another time perſwades the Houſe to commit Sir <hi>Thomas</hi> his Commiſſi<g ref="char:EOLhyphen"/>on, becauſe hee thought King was a little above <hi>Charls Steuart,</hi> and therefore not liable to the lamentable reſult of a petty paper plodding Committee, but timely intelligence very excellently forewarning his Excellence, hee made a halt at the Houſe doore, and ſent his Commiſſion to a Court of guard to be tyed neck and heeles from their clut<g ref="char:EOLhyphen"/>ches, wherefore <hi>Oliver</hi> croſt a caper, and bid his Excel<g ref="char:EOLhyphen"/>lence to conceale it, to maintaine his march, for the houſe lay in Ambuſcado.</p>
+            </sp>
+            <sp>
+               <speaker>A. B.</speaker>
+               <p>Yet he doth not run paralel with an Agitator.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>For then he ſhould be a Leveller, I ſuppoſe he is rather a Reveller, for <hi>Crumwell</hi> hath ſo well pickt up his crums from under the late well ſpread table of the Com<g ref="char:EOLhyphen"/>mon-wealth, that now he would ſit at the upper end of the board, the Sir <hi>Anthonyes</hi> being but the dogges of his flock (as <hi>Peters</hi> his puppy dog only for his bravado bark<g ref="char:EOLhyphen"/>ing) who gaine a few fragments by the way of ſnapping. Had it not been for his Iron-ſides the other day, his ribs had payed Tribute to <hi>Caeſar,</hi> for being rul'd by <hi>Endimion Ireton</hi> in the behalfe of a little piece of his Majeſties Pre<g ref="char:EOLhyphen"/>rogative.</p>
+            </sp>
+            <sp>
+               <speaker>A. B.</speaker>
+               <p>Neither is <hi>Crumwell</hi> ſuch an al cruſty condi<g ref="char:EOLhyphen"/>tion'd fellow as I tooke him for.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>For I conjecture that he would willingly preſerve the Prerogative ſo it were in the ſalt pichle of Independency.
+<pb n="5" facs="tcp:161294:4"/>The other day he made a very canonicall condemnatory ſpeech, to ſtop the careere of the Hobby-horſmen of Iſrael; biding of them ſhew their faith by their workes, or ſound a retreat to their ſeverall Regiments, and do nothing at all, for they ought to be under Government and not over it. Concerning which (to erre a little with the brethren) I heard a diſpute at the ſpirituall Spittle, one propounded his argument thus, if the honourable and free-born people of <hi>England,</hi> be the Foundation and ground<g ref="char:EOLhyphen"/>work of Government, it is requiſite they ſhould Governe: but they are, <hi>Ergo,</hi> what are Kings, Princes, and Potentates? only the ſpecious ſuperſtructure which we ſupport, <hi>Ergo,</hi> wee are the principle, which duly conſidered is a very fundamentall poynt; the Fabrick ought to be inferiour to the fundament or foundation, by which locall rule of contraryes, the talle ſhall dictate to the head, the breeches to the brainepan: and ſo bee right ſir Animall Agitators.</p>
+            </sp>
+            <sp>
+               <speaker>A. B.</speaker>
+               <p>Then Siſters ſhall ſucceed Senators, and ride to <hi>Weſtminſter.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>What a pretty condition ſhould we be in, if this Spit<g ref="char:EOLhyphen"/>tle ſhould bee ſuper-ſteeple predominant over all our Syna<g ref="char:EOLhyphen"/>gogues.</p>
+            </sp>
+            <sp>
+               <speaker>A. B.</speaker>
+               <p>Surely chimney-Churches would ſmoake us out of the Temple, but themſelves in that thick ſpirit would mount to the ſpirits that rule in the ayre, for they are deviliſh children of diſobedience. What is all this but a meere Ieſuiticall jugling againſt the poore King of <hi>Hampton-Court,</hi> and Kirke.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>It is ſo. Did not the Agitators come to puſh of pike with him in his forc'd retreat? very probably they ſhewed him the poynt of death, &amp; would have forc'd it upon him as a main point of their <hi>Doctrine,</hi> though the devills <hi>
+                     <g ref="char:V">Ʋ</g>ſe.</hi> O brave St. <hi>Authonies</hi> fire of zeale, muſt the King not only be confined, but confoun<g ref="char:EOLhyphen"/>ded, is it all one to carry him to his throne, and to goe about to cut his throat? O high and mighty Propoſals to the now, if you pleaſe freely begot people of England (for <hi>cummune</hi> being <hi>bonum,</hi> it is fitting all things ſhould be common) wherein every lamentable letter ſpeaks a premunire to the Prerogative, and ſeems to cruſh the Crowne-beneath the foot-ſtoole of a Cobler, tranſlating his perſon by underlaying into the ſimilitude of a Saint.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>Theſe Traytors of our age, or Agitators in their laſt
+<pb n="6" facs="tcp:161294:5"/>fire-work to the Army, let off a Cracker with noyſe that they with their fellow ſouldiers did and ſhould do the Parlia<g ref="char:EOLhyphen"/>ment as much ſervice by diſobedience as obedience.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>That is as well by not disbanding when they comman<g ref="char:EOLhyphen"/>ded, as by banding together againſt the Lord and his Anointed when they deſired, (which may bee an Oracle, though not of <hi>Apollo,</hi> yet of a pox of them, the ſhakers whoſe ſpirits are familiar with the devill) portending thoſe that raiſed this Parliament ſhall ruine it, or ſhake it into ſhivers, or ſhite it away by fanatick fluxing.</p>
+            </sp>
+            <sp>
+               <speaker>A. B.</speaker>
+               <p>It is a great queſtion what an Agitator means; ther<g ref="char:EOLhyphen"/>fore tell me.</p>
+            </sp>
+            <sp>
+               <speaker>T. S.</speaker>
+               <p>I will nominate ſome ſeverall ſignifications that the the word carryes, which much relates their antick or rather An<g ref="char:EOLhyphen"/>tinomian actions. Firſt it ſignifies a toſſen; and what is the kingdome now but a Tenniſcourt, and his Majeſty the ball ban<g ref="char:EOLhyphen"/>ded about with the roguiſh rackt of roundheadiſme, and often hazarded to deſtruction; looke from <hi>Dan</hi> to <hi>Berſheba,</hi> and you ſhall ſee ſuch toſſing the Independent petticoats for free quarter, and ſuch toſſe potting to credit the Publick Faith; that doubtles ſhortly all things muſt be common, and then this laſt age ſhall be exalted above the firſt becauſe of hornes, and Couckolds will be a cuſtome if not canonicall.</p>
+               <p>Secondld, Sir <hi>Anthony</hi> Agitator ſignifies a driver of a cart or beaſt; and now are not Carremen, nay the very carriage of men become Kings, who drive the Cart of the Common-wealth into the deep ditch of deſolation, crying high gee ho, both to God and the Goſpell, laſhing the poore commonalty with twiſted cords of conſpiracy.</p>
+               <p>Thirdly to agitate ſignifies to prick or compell; do not they prick forwarde Community for all commodities, pull up the hedge of honeſty from their Neighbours piece of ground; thinking it too much modeſty for a Saint to cover a ſin.</p>
+               <p>Fourthly, <hi>ſuriae ſagitant improbas,</hi> it ſignifies to torment; and did not theſe Tinkerly Traytors terrifie the people with the ſound of their kettledrums: nay they have now made the addle headed multitude uncapable of their <hi>Amſterdam,</hi> and animall alarums: from whence in fine, I define an Agitator to be an arch Tub Traytor of this age whom the Divel lately toſſed out of the bottomleſſe pit to drive on his deſinges, prick Principalities, and torment the times.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
